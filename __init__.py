@@ -1,4 +1,3 @@
-from os import path
 class File:
     def __init__(self,file, mode) -> None:
         self.file = file
